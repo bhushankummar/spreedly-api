@@ -1,5 +1,6 @@
-# spreedly-api
+# spreedly-api 
 [![Build Status](https://travis-ci.org/bhushankumarl/spreedly-api.svg?branch=master)](https://travis-ci.org/bhushankumarl/spreedly-api)
+
 This API supported Spreedly's v1 standard REST-style API that accepts/returns JSON requests and Here is the [API reference] (https://docs.spreedly.com/reference/api/v1)
 
 You can find [examples here](https://github.com/bhushankumarl/spreedly-api/tree/master/examples). This will help you for faster implmentation of 'spreedly-api'
