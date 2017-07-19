@@ -23,7 +23,7 @@ $ npm install
 Set your Environment Key and Access Secret. This is available in [Spreedly Document](https://docs.spreedly.com/basics/credentials).
 
 ```js
-var spreedly = require('spreedly-api')('environmentKey')('accessSecret');
+var spreedly = require('spreedly-api')('environmentKey','accessSecret');
 ```
 ### Gateways
 
