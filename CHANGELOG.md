@@ -1,3 +1,6 @@
+0.0.6 Future Release
+  - Add keywords
+  
 0.0.5 March 01, 2017
   - Add API support for Authorize, Capture, Certificates, Transactions
 

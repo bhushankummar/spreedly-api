@@ -8,6 +8,10 @@
     "credit cards",
     "bank",
     "api",
+    "node-spreedly",
+    "spreedly-client",
+    "spreedly-node",
+    "spreedly-sdk",
     "spreedly-node-api"
   ],
   "homepage": "https://github.com/bhushankumarl/spreedly-api",
