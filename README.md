@@ -5,9 +5,14 @@ This API supported Spreedly's v1 standard REST-style API that accepts/returns JS
 
 You can find [examples here](https://github.com/bhushankumarl/spreedly-api/tree/master/examples). This will help you for faster implmentation of 'spreedly-api'
 
+##### It does supports EcmaScript 5, EcmaScript 6,  EcmaScript 8, TypeScript, async-await, Promises, Callback !
+##### It supports pure JSON response.
+##### All methods support Promise and Callback both.
+##### Please Feel free to create Issue for any help !
+
 ## Installation
 ```bash
-$ npm install spreedly-api --save
+npm install spreedly-api --save
 ```
 
 ## Development
@@ -15,7 +20,7 @@ $ npm install spreedly-api --save
 Run the installation:
 
 ```bash
-$ npm install
+npm install
 ```
 
 ## Configuration

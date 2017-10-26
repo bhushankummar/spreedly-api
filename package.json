@@ -1,6 +1,6 @@
 {
   "name": "spreedly-api",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Spreedly API wrapper",
   "keywords": [
     "Spreedly",
@@ -12,7 +12,15 @@
     "spreedly-client",
     "spreedly-node",
     "spreedly-sdk",
-    "spreedly-node-api"
+    "spreedly-node-api",
+    "spreedly-authorize",
+    "spreedly-capture",
+    "spreedly-gateways",
+    "spreedly-certificates",
+    "spreedly-payment",
+    "spreedly-purchase",
+    "spreedly-receivers",
+    "spreedly-transactions"
   ],
   "homepage": "https://github.com/bhushankumarl/spreedly-api",
   "author": "Bhushankumar Lilapara<bhushankumar.lilapara@gmail.com>",

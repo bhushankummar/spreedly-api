@@ -1,4 +1,8 @@
-0.0.6 Future Release
+0.0.7 October 26, 2017
+  - Add keywords
+  - Add API support for Receivers
+
+0.0.6 July 19, 2017
   - Add keywords
   
 0.0.5 March 01, 2017
