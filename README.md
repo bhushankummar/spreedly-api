@@ -10,6 +10,11 @@ You can find [examples here](https://github.com/bhushankumarl/spreedly-api/tree/
 ##### All methods support Promise and Callback both.
 ##### Please Feel free to create Issue for any help !
 
+## Do you need an expert?
+
+Are you in need of a developer? If so, please reach out here. [Submit your project request here.](https://goo.gl/forms/UofdG5GY5iHMoUWg2)
+Originally by [Bhushankummar - bhushan.lilapra@gmail.com](mailto:bhushan.lilapra@gmail.com).
+
 ## Installation
 ```bash
 npm install spreedly-api --save
